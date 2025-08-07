@@ -4,6 +4,8 @@ Welcome to **CommitCord**, a lightweight and fun collaboration app inspired by t
 
 Whether you're brainstorming ideas, sharing memes, or just vibing with your crew, this app brings the essential features of a modern chat platform into one simple package — made from scratch with 💻 **Node.js**, ⚛️ **React**, and 🛢️ **MongoDB**.
 
+![stoXsimple Screenshot](https://github.com/0wardriver0/CommitCord/blob/main/commitcord.png)
+
 ---
 
 ## 🚀 Features
