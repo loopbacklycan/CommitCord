@@ -30,7 +30,7 @@ Whether you're brainstorming ideas, sharing memes, or just vibing with your crew
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/0wardriver0/commitcord.git
+git clone https://github.com/loopbacklycan/commitcord.git
 
 # 2. Start the backend
 cd server
